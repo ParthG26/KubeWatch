@@ -1,14 +1,14 @@
-# **Cloud Native Resource Monitoring Python App on K8s!** 💻☁️
+# **KubeWatch: Cloud Native Resource Monitoring Python App on K8s!** 💻☁️
 
 ## **Prerequisites** 🔍
 
-(Things to have before starting the projects)
+(Things to have before starting the project)
 
-- [x]  AWS Account.
-- [x]  Programmatic access and AWS configured with CLI.
-- [x]  Python3 Installed.
-- [x]  Docker and Kubectl installed.
-- [x]  Code editor (Vscode)
+- [x] AWS Account.
+- [x] Programmatic access and AWS configured with CLI.
+- [x] Python3 Installed.
+- [x] Docker and Kubectl installed.
+- [x] Code editor (VSCode)
 
 # ✨Let’s Start the Project! ✨
 
@@ -220,11 +220,12 @@ We welcome contributions from the community! If you'd like to contribute to this
 
 ## **License** 📜
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see
+
+ the [LICENSE](LICENSE) file for details.
 
 By contributing to this project, you agree that your contributions will be licensed under its MIT License.
 
 ## **Code of Conduct** 📝
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms, which can be found in the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) file.
-
