@@ -1,4 +1,4 @@
-# **KubeWatch: Cloud Native Resource Monitoring Python App on K8s!** 💻☁️
+# **KubeWatch: Cloud Native Resource Monitoring Using Python on K8s!** 💻☁️
 
 ## **Prerequisites** 🔍
 
